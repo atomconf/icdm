@@ -41,16 +41,19 @@ Among real-world datasets used in our paper, we provide demo scripts for two dat
 You run MATLAB, and type the following commands in MATLAB.
 
 Before you run our proposed method, you should add paths into MATLAB environment. Please type the following command in MATLAB:
-    `addPaths`
+
+`run addPaths`
 
 If you run a demo script for Japan Stock data, you first download Japan Stock from the following [link](https://drive.google.com/file/d/1whN5pZvo4ybVNHvg1z3rfsOO-QjF_WMk/view?usp=sharing)
 After download, you extract the zip file, and move .mat files to `data` directory.
 We provide a demo script to run our method ATOM for Japan Stock dataset.
 Then, type the following command to run the demo:
+
     `run demo_real_dense.m`
 
 We provide a demo script to run our method ATOM for ML-100k dataset.
 Then, type the following command to run the demo:
+
     `run demo_real_sparse.m`
 
 If data cannot be loaded, check the path and change the path in lines 7 and 11 of the code `demo_real_dense.m` and lines 8 and 15 of the code `demo_real_sparse.m`, respectively.
