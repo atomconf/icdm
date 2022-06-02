@@ -1,7 +1,5 @@
 # Accurate PARAFAC2 Decomposition for Temporal Irregular Tensors with Missing Values
 This is a code for "Accurate PARAFAC2 Decomposition for Temporal Irregular Tensors with Missing Values", submitted to ICDM 2022.
-Authors: anonymous authors
-Version: 1.0
 
 ## Code Information
 All codes are written by MATLAB R2020b.
