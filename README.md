@@ -25,14 +25,15 @@ We provide a demo script for generating synthetic tensor data and running ATOM.
 First, you run MATLAB, and type the following commands in MATLAB.
 
 Before you run our proposed method, you should add paths into MATLAB environment. Please type the following command in MATLAB:
-    `addPaths`
-
+```
+    run addPaths
+```
 Or, you manually add paths for `src` and `library` directories.
 
 Then, type the following command to run the demo for the synthetic data:
-    ```
+```
     run demo_synthetic.m
-    ```
+```
 ### Run for real-world data
 Among real-world datasets used in our paper, we provide demo scripts for two datasets, Japan Stock and ML-100k datasets.
 
