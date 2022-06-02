@@ -42,7 +42,7 @@ Before you run our proposed method, you should add paths into MATLAB environment
 ```
     run addPaths
 ```
-If you run a demo script for Japan Stock data, you first download Japan Stock from the following [link](https://drive.google.com/file/d/1whN5pZvo4ybVNHvg1z3rfsOO-QjF_WMk/view?usp=sharing)
+If you run a demo script for Japan Stock data, you first download Japan Stock from the following [link](https://drive.google.com/file/d/1whN5pZvo4ybVNHvg1z3rfsOO-QjF_WMk/view?usp=sharing).
 After download, you extract the zip file, and move .mat files to `data` directory.
 We provide a demo script to run our method ATOM for Japan Stock dataset.
 Then, type the following command to run the demo:
