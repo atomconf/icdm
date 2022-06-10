@@ -36,6 +36,7 @@ Then, type the following command to run the demo for the synthetic data:
 ```
 ### Run for real-world data
 Among real-world datasets used in our paper, we provide demo scripts for two datasets, Japan Stock and ML-100k datasets.
+There is not enough storage to upload the other data while keeping anonymization.
 
 You run MATLAB, and type the following commands in MATLAB.
 
